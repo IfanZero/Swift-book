@@ -6,7 +6,8 @@ organize your code’s behavior.
 
 The section begins with some groundwork to get you started:
 
-* ###### **Chapter 1, Coding Essentials & Playground Basics**: This is it, your whirlwind introduction to the world of programming! You’ll begin with an overview of computers and programming, and then say hello to Swift playgrounds, which are where you’ll pend your coding time for the rest of this book.
+* **Chapter 1, Coding Essentials & Playground Basics**: This is it, your whirlwind introduction to the world of programming! You’ll begin with an overview of computers and programming, and then say hello to Swift playgrounds, which are where you’ll pend your coding time for the rest of this book.
+
 * **第一章，编程要点&Playground 基础：**这是你进入编程世界入门介绍，如同旋风般！
 
 Next, you’ll learn the basics of data in Swift:
