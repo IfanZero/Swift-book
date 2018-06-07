@@ -15,6 +15,8 @@ Next, you’ll learn the basics of data in Swift:
 * **Chapter 2, Expressions, Variables & Constants**: You’ll start by learning some basics such as code comments, arithmetic operations, constants and variables. These are some of the fundamental building blocks of any language, and Swift is  
   no different.
 
+* 第二章，待续。。。
+
 * **Chapter 3, Types & Operations**: You’ll learn about handling different types, including strings which allow you to represent text. You’ll learn about converting between types and you’ll also be introduced to type inference which makes your life as a programmer a lot simpler. You’ll learn about tuples which allow you to make your own types made up of multiple values of any type.
 
 Once you have the basic data types in your head, it’ll be time to dothings with that data:
