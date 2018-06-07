@@ -8,7 +8,7 @@ The section begins with some groundwork to get you started:
 
 * **Chapter 1, Coding Essentials & Playground Basics**: This is it, your whirlwind introduction to the world of programming! You’ll begin with an overview of computers and programming, and then say hello to Swift playgrounds, which are where you’ll pend your coding time for the rest of this book.
 
-* **第一章，编程要点&Playground 基础：**这是你进入编程世界入门介绍，如同旋风般！
+* **第一章，编程要点&Playground 基础：**这是你进入编程世界入门介绍，如同旋风般！首先，是对计算机和编程的一个概述，然后就是在接下来的日子中你将通过本书频繁接触的Swift plygrounds，这样，你的旅程就开始了！
 
 Next, you’ll learn the basics of data in Swift:
 
